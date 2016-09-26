@@ -1,5 +1,8 @@
-# SAMPLE
-A SAMPLE REPOSITORY
-HOAGHAGHAOGJL
-AFUOIGHA['FUG
-UAOFGHA
+# SAMPLE code
+#include<stido.h>
+#include<conio.h>
+main
+{
+int a=3;
+printf("value is",a);
+}
