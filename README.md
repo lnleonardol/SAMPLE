@@ -3,5 +3,5 @@ include<stdio.h>
 include<conio.h>
 main
 {
-printf("hello world");
+printf("helllo world");
 }
