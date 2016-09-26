@@ -1,3 +1,3 @@
 # MODIFY
-CHANGE COMMITMENTS
-CHANGING SAMPLES
+include<stdio.h>
+printf a;
